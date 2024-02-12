@@ -1,0 +1,31 @@
+# Ignore built files
+/dist/
+/out/
+/build/
+
+# Ignore npm package directory
+/node_modules/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore TypeScript cache
+*.tsbuildinfo
+
+# Ignore VSCode specific files
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore IDE/Editor settings
+.idea/
+*.iml
